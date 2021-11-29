@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+body { 
+    background-color: #FFEBFB; 
+}
+.cover-container {
+    padding-top: 80px;
+    padding-bottom:70px
+}
+.jumbotron {
+    background-image: url("../images/gradient.jpg");
+    background-size: cover;
+    width:100%;
+    height: 100%;
+}
+h1 h2 h3 h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+a.nav-link {
+    font-family: 'Poppins', sans-serif;
+    color:black;
+}
+
+a:hover {
+    color:#447BFE;
+}
+.btn {
+    color:#447BFE;
+    background-color:white;
+}
+.list-unstyled {
+    font-family: 'Poppins', sans-serif;
+}
+.book {
+    color:black;
+    font-size:80px;
+}
+.heart {
+    color:black;
+    font-size:79px;
+}
+.person {
+    color:black;
+    font-size:79px;
+}
+footer {
+    color:black;
+    background-color:white;
+}
